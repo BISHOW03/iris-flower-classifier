@@ -1,8 +1,9 @@
 # 🌸 Iris Flower Classifier
 
-A beginner-friendly machine learning app that classifies Iris flowers into **Setosa**, **Versicolor**, or **Virginica** using the famous Iris dataset. Built with `scikit-learn` and deployed using `Streamlit`.
+# 📸 Screenshots
+![App Screenshot](image.png)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iris-flower-classifier-bishow03.streamlit.app/)
+A beginner-friendly machine learning app that classifies Iris flowers into **Setosa**, **Versicolor**, or **Virginica** using the famous Iris dataset. Built with `scikit-learn` and deployed using `Streamlit`.
 
 ---
 
